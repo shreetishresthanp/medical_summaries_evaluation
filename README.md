@@ -12,4 +12,4 @@ test_data.csv: It contains 150 data samples randomly selected from the dataset u
 ### Conclusion
 Overall, this task demonstrated that designing plain language summarization, specifically in the context of medical articles, requires a user-first approach. The evaluation of the model tested in this study highlighted critical gaps in readability, engagement and actionability. While the standard metrics helped measure word overlap and readability, human evaluation revealed the lack of engagement and the lack of actionable outcome for a layperson reading these texts. Hence, to truly make medical summaries accessible to a general reader, our evaluation needs to put end readers at the forefront of assessing these models. 
 
-A full report for this evaluation can be found at medical_summaries_evaluation/Evaluating Medical Summaries.pdf
+A full report for this evaluation can be found at medical_summaries_evaluation/EvaluatingMedicalSummaries.pdf
